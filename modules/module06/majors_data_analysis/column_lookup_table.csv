@@ -1,0 +1,95 @@
+gpt_short_names,original_column_names
+age,Age 
+att_cost,To what extent did the following impact your decision to attend County College of Morris? [Affordable cost]
+att_extrac,To what extent did the following impact your decision to attend County College of Morris? [Extra-curricular opportunities]
+att_fac_staff,To what extent did the following impact your decision to attend County College of Morris? [Faculty/staff]
+att_fam_ref,To what extent did the following impact your decision to attend County College of Morris? [Family/friend referral]
+att_finaid,To what extent did the following impact your decision to attend County College of Morris? [Financial Aid]
+att_hs_cr,To what extent did the following impact your decision to attend County College of Morris? [Get college credit while in high school]
+att_loc,To what extent did the following impact your decision to attend County College of Morris? [Location/convenience]
+att_neg_exp,To what extent did the following impact your decision to attend County College of Morris? [Negative experience at another college]
+att_njstars,To what extent did the following impact your decision to attend County College of Morris? [NJ Stars Program]
+att_online,To what extent did the following impact your decision to attend County College of Morris? [Online offerings]
+att_prog,To what extent did the following impact your decision to attend County College of Morris? [Choice of programs]
+att_rep,To what extent did the following impact your decision to attend County College of Morris? [College reputation]
+att_scholar,To what extent did the following impact your decision to attend County College of Morris? [Scholarships]
+att_sml_cls,To what extent did the following impact your decision to attend County College of Morris? [Small class sizes]
+att_tr_4yr,To what extent did the following impact your decision to attend County College of Morris? [Ability to transfer CCM credits to a 4-year school]
+att_tr_acc,To what extent did the following impact your decision to attend County College of Morris? [Accepted my transfer credits]
+comp_1st,"Was a computing major/certificate your first choice, or did you change majors from a different CCM program? If you changed majors, indicate what your first major was."
+course,Which course are you enrolled in?
+curr_deg,What degree program are you currently enrolled in?
+ethnicity,Race/ethnicity
+ev_cp,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Challenger Program]"
+ev_ct,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Corporate Training]"
+ev_cvhs,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Campus Visit with my high school]"
+ev_cvi,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Campus Visit (individual)]"
+ev_cyber,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [CyberSecurity Information Protection Program Participation ]"
+ev_hoc_2223o,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Hour of Code]"
+ev_hs_st,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [HS Sharetime Information Session]"
+ev_idd,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Instant Decision Day]"
+ev_info_hs,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Information Session at my high school]"
+ev_ocis,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [On-Campus Information Session]"
+ev_oh,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Open House]"
+ev_rcf,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Regional College Fair]"
+ev_summer,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Summer camp at CCM]"
+ev_taf,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Teen Arts Festival]"
+ev_tt_virt_2021a,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Titans Tuesday (Virtual) Information Session]"
+ev_virt_info_2020o,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Virtual Information Session]"
+ev_wfd_cls,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Workforce Development class]"
+ev_wwd,"Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Women Who Dare]"
+gender,Gender
+hear_alum,How did you hear about County College of Morris? [CCM Alumni]
+hear_bb,How did you hear about County College of Morris? [Billboard]
+hear_ce,How did you hear about County College of Morris? [Community Event]
+hear_cs,How did you hear about County College of Morris? [Current CCM student]
+hear_emp,How did you hear about County College of Morris? [Employer]
+hear_fam,How did you hear about County College of Morris? [Family member or friend]
+hear_hm_2223o,How did you hear about County College of Morris? [Home mailer]
+hear_hs_gc,How did you hear about County College of Morris? [High School Counselor]
+hear_hs_tchr,How did you hear about County College of Morris? [High School Teacher]
+hear_iaa,How did you hear about County College of Morris? [In-app advertisement]
+hear_oth,How did you hear about County College of Morris? [Other]
+hear_radio,How did you hear about County College of Morris? [Radio]
+hear_sm,How did you hear about County College of Morris? [Social Media]
+hear_tv,How did you hear about County College of Morris? [Television]
+hear_web,How did you hear about County College of Morris? [CCM Web site]
+imp_aftr_camp,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Afterschool computing-related camp/program]
+imp_ap_comp,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [An AP computing class]
+imp_comp_comp,"To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Computing-related competitions (e.g., Robotics competition, Lego competition, Cybersecurity, Programming)]"
+imp_cs,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Current CCM student]
+imp_dual_comp,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [A dual enrollment computing class]
+imp_emp,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Employer influence]
+imp_exp_work,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Experience at work]
+imp_fam,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Family or friend influence]
+imp_fam_comp,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Family or friend working in the computing field]
+imp_hs_tchr_gc,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [High school teacher or guidance counselor]
+imp_mhs_club,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Middle/High school computing related club]
+imp_mhs_comp,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Middle/High school computing class]
+imp_oth,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Other]
+imp_sum_camp,To what extent did the following activities or experience impact your decision to enroll in an computing course at CCM? [Summer computing related camp/program]
+interest_in_more_classes,"On a scale of 1 to 5, with 1 being not at all interested and 5 being extremely interested, how interested are you in taking more computing classes?"
+mot_career_adv_2021a,What motivated you to seek a computing degree/certificate at CCM?  [Career Advancement]
+mot_career_ch_2021a,What motivated you to seek a computing degree/certificate at CCM?  [Career Change]
+mot_curr_tech_2021a,What motivated you to seek a computing degree/certificate at CCM?  [To keep current in tech industry]
+mot_fin_2021a,What motivated you to seek a computing degree/certificate at CCM?  [Financial]
+mot_it_cert_2021a,What motivated you to seek a computing degree/certificate at CCM?  [IT Industry Certifications]
+mot_job_comp_2021a,What motivated you to seek a computing degree/certificate at CCM?  [To get a job in the computing field]
+mot_job_disp_2021a,What motivated you to seek a computing degree/certificate at CCM?  [Job Displacement]
+mot_pers_enr_2021a,What motivated you to seek a computing degree/certificate at CCM?  [Personal Enrichment]
+mot_prof_dev_2021a,What motivated you to seek a computing degree/certificate at CCM?  [Professional Development]
+mot_reloc_2021a,What motivated you to seek a computing degree/certificate at CCM?  [Relocation]
+mot_tr_bach_2021a,What motivated you to seek a computing degree/certificate at CCM?  [Transfer to bachelor's level program]
+mot_tr_hs_2021a,"What motivated you to seek a computing degree/certificate at CCM?  [Transfer credits back to HS degree (ShareTime, Challenger Program)]"
+moti_deg_all_2020o,What motivated you to seek a computing degree/certificate at CCM? (check all that apply)
+src_adm,Did you receive information about the CCM computing programs from any of the following sources? [CCM Admissions]
+src_adv,Did you receive information about the CCM computing programs from any of the following sources? [CCM advisor/counselor]
+src_emp,Did you receive information about the CCM computing programs from any of the following sources? [Employer]
+src_hs_gc,Did you receive information about the CCM computing programs from any of the following sources? [High school guidance counselor]
+src_hs_tchr,Did you receive information about the CCM computing programs from any of the following sources? [High School Teacher]
+src_it_web,Did you receive information about the CCM computing programs from any of the following sources? [CCM Information Technologies Website]
+src_nj_wfd,Did you receive information about the CCM computing programs from any of the following sources? [NJ Workforce Development Program]
+src_oth,Did you receive information about the CCM computing programs from any of the following sources? [Other]
+src_wfd,Did you receive information about the CCM computing programs from any of the following sources? [CCM Workforce Development]
+timestamp,Timestamp
+why_more_comp,Please explain your answer to the question above.  Why or why not would you be interested in taking another computing class?
